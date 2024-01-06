@@ -1,0 +1,51 @@
+body{
+     background-image: url(./images/Game.jpg);
+}
+#Welcon{
+     margin: 30px;
+     font-family: 'Lobster', cursive;
+     text-shadow: 5px 0 #232931;
+     font-size: 6rem;
+     color: #964B00;
+}
+#Start{
+     margin: 30px;
+     font-family: 'Lobster', cursive;
+     text-shadow: 2px 0 #232931;
+     font-size: 3rem;
+     color: #964B00;
+}
+#Fir{
+     margin: 30px;
+     font-family: 'Lobster', cursive;
+     text-shadow: 2px 0 #232931;
+     font-size: 3rem;
+     color: #964B00;
+}
+
+.oye{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.container {
+     width: 70%;
+     margin: auto;
+     text-align: center;
+}
+
+img {
+     width: 80%;
+}
+.mid{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+p{
+     font-size: 2rem;
+     font-family: 'Lobster', cursive;
+     color: 	#28492B;
+}
+   
